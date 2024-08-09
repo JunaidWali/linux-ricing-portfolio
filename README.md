@@ -8,7 +8,7 @@ Here are some of the examples of my rices on Linux over the years.
 I tried to make something super simple with minimal look and feel
 <br><br>
 
-![Image of a KDE Desktop](https://github.com/user-attachments/assets/3c127faa-5e02-4f90-bbf6-b39a1eb30e6d)
+![Image of a KDE Desktop](images/first-kde-rice.png)
 <br><br><br><br>
 
 ## Second attempt was done using the Gnome desktop environment running Manjaro.
@@ -16,7 +16,7 @@ I tried to make something super simple with minimal look and feel
 This had a Windows feel with a touch of Chrome OS.
 <br><br>
 
-![Image of a Gnome Desktop with apps open](https://github.com/user-attachments/assets/101508c0-b56c-4da7-b27d-3d0dbc05e076)
+![Image of a Gnome Desktop with apps open](images/second-gnome-rice.png)
 
 Design specifications:<br>
 Application theme: Orchis-Dark Compact<br>
@@ -27,4 +27,18 @@ Shell Theme: Orchis-Dark Compact<br>
 ## Favourite one using KDE and Manjaro
 
 I love this rice the best because it has the most features and is a perfect mix of Windows and Mac OS. I used Manjaro for this one as well since I felt it was the best distro for my use case.
+
+![Gif of a KDE shifting through apps](images/third-kde-rice.gif)
+
+Design specifications:<br>
+Application Style: Breeze<br>
+Plasma Style: ChromeOS<br>
+Colors: Materia Dark (Edited)<br>
+Window Decorations: Orchis-Dark<br>
+Icons: ePapirus<br>
+Cursor: Adwaita<br>
+Dock: Latte Dock (latest git version)<br>
+Spotify Mod: Spicetify<br>
+Spicetify Theme: DribblishDynamic<br>
+
 
