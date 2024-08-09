@@ -9,7 +9,7 @@ I tried to make something super simple with minimal look and feel
 <br><br>
 
 ![Image of a KDE Desktop](images/first-kde-rice.png)
-<br><br><br><br>
+<br><br>
 
 ## Second attempt was done using the Gnome desktop environment running Manjaro.
 
